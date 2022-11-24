@@ -1,0 +1,14 @@
+Follow These Commands step by step To install kali in Termux
+
+apt update 
+apt upgrade
+pkg install wget
+wget -O install-nethunter-turmux https://offs.ec/2MceZWr
+chmod +x install-nethunter-turmux
+./install-nethunter-termux
+
+Then You can Delete Rootfs By typing N. 
+
+And then You will be able to use kali. 
+
+Thanku
